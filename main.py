@@ -1,4 +1,3 @@
-from click import clear
 import psutil
 import time
 import psutil
